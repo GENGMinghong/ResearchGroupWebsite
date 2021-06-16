@@ -11,6 +11,6 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Professors
+  - Principal Investigators
 highlight_name: false
 ---
