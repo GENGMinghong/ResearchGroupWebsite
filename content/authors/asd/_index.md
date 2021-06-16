@@ -15,6 +15,6 @@ social:
 email: asdasd
 superuser: false
 user_groups:
-  - asdasd
+  - Researchers
 ---
 asdasd
