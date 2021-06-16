@@ -14,7 +14,7 @@ design:
   background:
     color: rgba(205, 164, 79, 0.75)
     text_color_light: false
-    image: smu.jpg
+    image: ""
 hero_media: welcome.jpg
 ---
 Welcome to Singapore Management University, the research group.
