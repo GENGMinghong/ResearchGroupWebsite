@@ -22,6 +22,8 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - Professors
+  - Research Engineers
 design:
   show_interests: false
   show_role: true
