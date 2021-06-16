@@ -6,7 +6,7 @@ widget: hero
 widget_id: Recent
 headless: true
 weight: 10
-title: Wowchemy Research Group
+title: Singapore Management University Research Group
 subtitle: ""
 design:
   columns: "1"
