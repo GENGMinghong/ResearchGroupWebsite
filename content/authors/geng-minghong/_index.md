@@ -36,4 +36,4 @@ user_groups:
   - Research Engineers
 email: "mhgeng@smu.edu.sg"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Geng, Minghong is a research engineer in the team. His research is now focusing on multi-agent reinforcement learning and hierarchical reinforcement learning in the _Starcraft II_ simulation Environment.  
