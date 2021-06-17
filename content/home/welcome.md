@@ -6,7 +6,7 @@ widget: hero
 widget_id: Recent
 headless: true
 weight: 10
-title: Cognitive and Neural Computing Research Group
+title: Welcome
 subtitle: ""
 active: true
 design:
@@ -17,4 +17,4 @@ design:
     image: ""
 hero_media: smu.jpg
 ---
-Welcome to Singapore Management University, the Cognitive and Neural Computing Research Group.
+to Singapore Management University, the Cognitive and Neural Computing Research Group.

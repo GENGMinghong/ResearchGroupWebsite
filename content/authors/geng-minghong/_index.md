@@ -1,6 +1,6 @@
 ---
 title: Geng, Minghong
-avatar_filename: avatar
+avatar_filename: 照片.jpg
 social: []
 superuser: false
 user_groups:
