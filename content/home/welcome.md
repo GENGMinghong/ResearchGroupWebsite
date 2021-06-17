@@ -6,7 +6,7 @@ widget: hero
 widget_id: Recent
 headless: true
 weight: 10
-title: Singapore Management University Cognitive and Neural Computing Research Group
+title: Cognitive and Neural Computing Research Group
 subtitle: ""
 active: true
 design:
