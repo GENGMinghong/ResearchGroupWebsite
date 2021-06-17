@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: Singapore Management University
-    url: ""
+  - name: Singapore Management University，School of Computing and Information Systems
+    url: "https://scis.smu.edu.sg/"
 superuser: false
 authors:
   - Geng, Minghong
