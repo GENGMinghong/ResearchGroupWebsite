@@ -1,9 +1,39 @@
 ---
-title: Geng, Minghong
-avatar_filename: 照片.jpg
-social: []
+organizations:
+  - name: Singapore Management University
+    url: ""
 superuser: false
+authors:
+  - Geng, Minghong
+title: Geng, Minghong
+role: Research Engineer
+bio: My research is now focusing on multi-agent reinforcement learning and hierarchical reinforcement learning.
+interests:
+  - Artificial Intelligence
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mhgeng@smu.edu.sg
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/GENGMinghong
+education:
+  courses:
+    - course: Master of IT in Business
+      institution: Singapore Management University
+      year: 2020
+    - course: BEc in Finance
+      institution: Southwestern University of Finance and Economics
+      year: 2018
+avatar_filename: 照片.jpg
 user_groups:
   - Research Engineers
 email: "mhgeng@smu.edu.sg"
 ---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
