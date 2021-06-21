@@ -13,4 +13,4 @@ image:
 ---
 This website will go live soon.
 
-Current, it is still under construction.
+Currently, it is still under construction.
