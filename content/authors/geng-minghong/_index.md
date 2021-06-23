@@ -1,7 +1,7 @@
 ---
 title: Geng, Minghong
 role: Research Engineer
-avatar_filename: ""
+avatar_filename: avatar.jpg
 organizations:
   - name: Singapore Management University，School of Computing and Information Systems
     url: https://scis.smu.edu.sg/
@@ -27,7 +27,7 @@ education:
     - course: BEc in Finance
       institution: Southwestern University of Finance and Economics
       year: 2018
-email: mhgeng@smu.edu.sg
+email: ""
 user_groups:
   - Research Engineers
 ---
