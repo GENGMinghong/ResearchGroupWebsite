@@ -27,7 +27,7 @@ education:
     - course: BEc in Finance
       institution: Southwestern University of Finance and Economics
       year: 2018
-email: ""
+email: mhgeng@smu.edu.sg
 user_groups:
   - Research Engineers
 ---
