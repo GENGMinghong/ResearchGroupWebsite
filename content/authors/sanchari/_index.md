@@ -20,7 +20,7 @@ education:
   courses:
     - course: Bacheor of Technology in Electrical Engineering
       institution: National Institute of Technology Rourkela, India
-      year: 2013
+      year: 2018
 email: sancharidan@smu.edu.sg
 superuser: false
 user_groups:
