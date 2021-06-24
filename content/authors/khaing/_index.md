@@ -10,7 +10,7 @@ social:
       header: false
     link: khaingpw@smu.edu.sg
     icon_pack: fas
-    icon: envelop
+    icon: envelope
     label: ""
 organizations:
   - name: Singapore Management University, School of Computing and Information
