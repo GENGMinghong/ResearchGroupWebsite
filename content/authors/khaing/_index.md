@@ -3,8 +3,8 @@ title: Khaing Phyo Wai
 role: Research Engineer
 avatar_filename: https://en.gravatar.com/userimage/208148440/baeeacc838241a8847649af3229f9f94.jpg
 interests:
-  - ArtificialIntelligence
-  - MachineLearning
+  - Artificial Intelligence
+  - Machine Learning
 social:
   - display:
       header: false
