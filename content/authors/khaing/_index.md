@@ -9,8 +9,7 @@ social: []
 organizations:
   - name: Singapore Management University, School of Computing and Information
       Systems
-    url: Singapore Management University, School of Computing and Information
-      Systems
+    url: https://scis.smu.edu.sg/
 education:
   courses:
     - course: Doctor of Philosophy in Information Technology
