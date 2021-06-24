@@ -1,7 +1,7 @@
 ---
 title: Sanchari DAN
 role: Research Engineer
-avatar_filename: avatar
+avatar_filename: null
 social:
   - display:
       header: false
@@ -21,6 +21,7 @@ education:
     - course: Bacheor of Technology in Electrical Engineering
       institution: National Institute of Technology Rourkela, India
       year: 2013
+email: sancharidan@smu.edu.sg
 superuser: false
 user_groups:
   - Research Engineers
