@@ -1,13 +1,15 @@
 ---
 title: Khaing Phyo Wai
 role: Research Engineer
-avatar_filename: avatar
+avatar_filename: null
 interests:
   - ArtificialIntelligence
   - MachineLearning
 social: []
 organizations:
   - name: Singapore Management University, School of Computing and Information
+      Systems
+    url: Singapore Management University, School of Computing and Information
       Systems
 education:
   courses:
