@@ -5,7 +5,13 @@ avatar_filename: https://en.gravatar.com/userimage/208148440/baeeacc838241a88476
 interests:
   - ArtificialIntelligence
   - MachineLearning
-social: []
+social:
+  - display:
+      header: false
+    link: khaingpw@smu.edu.sg
+    icon_pack: fas
+    icon: envelop
+    label: ""
 organizations:
   - name: Singapore Management University, School of Computing and Information
       Systems
