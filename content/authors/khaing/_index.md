@@ -1,7 +1,7 @@
 ---
 title: Khaing Phyo Wai
 role: Research Engineer
-avatar_filename: https://en.gravatar.com/userimage/208148440/0c7113263b5798ac657d1911d76cb8a0.jpg
+avatar_filename: https://en.gravatar.com/userimage/208148440/62480f854ea3c57a5070baf7ddd3e0e7.jpg
 interests:
   - ArtificialIntelligence
   - MachineLearning
