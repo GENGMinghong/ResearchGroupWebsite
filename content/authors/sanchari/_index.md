@@ -1,6 +1,6 @@
 ---
 title: Sanchari DAN
-role: ""
+role: Research Engineer
 avatar_filename: avatar
 social:
   - display:
